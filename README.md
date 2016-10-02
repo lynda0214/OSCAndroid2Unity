@@ -4,7 +4,7 @@ OSCMusicUnity is an Andorid project</br>
 unity-osc-receiver-master is an Unity project
 
 * Notice: <br>
-  1. In Android, Internet opereation cannot br placed in the main thread. <br>
+  1. In Android, Internet opereation cannot be placed in the main thread. <br>
   2. In Android Project the value of remoteIP needs to be changed. (to the IP address of the laptop) <br>
   3. Make sure both devices connect to the same WIFI. <br> 
 
